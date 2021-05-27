@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "some title 3333",
+      "details": "some details....3333",
+      "category": "money",
+      "id": 3
+    },
+    {
+      "title": "yoooo...",
+      "details": "kjdfhglkjdh gdlf gld gkdfjgh lkjhf",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "yooooooooo",
+      "details": "kjsdfhlksdjhf lsdf jkshdlfkjsdfh lsdkjfh ",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "heloooooo",
+      "details": "jdfghlkdjfgh ld kfgjh dflgkjh dlfg",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "ldkj;lkdfjg ;lk",
+      "details": "dkgjldfkgj d;fglkdjfg;ldkjg ;dlkfgj d;lfkgj ;dlfkgj ;dlkfgj ;;dflkgj ;ldfkgjdkgjldfkgj d;fglkdjfg;ldkjg ;dlkfgj d;lfkgj ;dlfkgj ;dlkfgj ;;dflkgj ;ldfkgj",
+      "category": "todos",
+      "id": 9
+    },
+    {
+      "title": "dgkjdfjkgh ",
+      "details": "dkgjldfkgj d;fglkdjfg;ldkjg ;dlkfgj d;lfkgj ;dlfkgj ;dlkfgj ;;dflkgj ;ldfkgj",
+      "category": "todos",
+      "id": 10
+    },
+    {
+      "title": "kjhkjhkljh",
+      "details": "dkgjldfkgj d;fglkdjfg;ldkjg ;dlkfgj d;lfkg",
+      "category": "todos",
+      "id": 11
+    }
+  ]
+}
